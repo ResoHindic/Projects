@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.localEchoStyle": "dim",
+    "terminal.integrated.lineHeight": 1.2,
+    "terminal.integrated.letterSpacing": 0.5,
+    "terminal.integrated.fontFamily": "Cascadia Code",
+    "terminal.integrated.fontLigatures": true
+}

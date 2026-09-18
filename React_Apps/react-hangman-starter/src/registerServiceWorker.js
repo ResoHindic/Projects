@@ -44,7 +44,7 @@ export default function register() {
               'worker. To learn more, visit https://goo.gl/SC7cgQ'
           );
         });
-      } else {
+      } else {``
         // Is not local host. Just register service worker
         registerValidSW(swUrl);
       }

@@ -1,0 +1,20 @@
+.RollDice {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    margin-top: 2rem;
+}
+.RollDice button {
+    width: 15em;
+    padding: 1em;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-top: 2rem;
+    background-color: #4fc59c;
+    cursor: pointer;
+}
+
+.RollDice button:hover {
+    background-color:rgb(226, 194, 62);
+}
